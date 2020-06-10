@@ -7,5 +7,6 @@ public class HelloGit {
 		System.out.println("分支第一次提交");
 		System.out.println("dev提交1");
 		System.out.println("dev提交2");
+		System.out.println("dev提交3");
 	}
 }
