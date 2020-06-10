@@ -11,6 +11,8 @@ public class HelloGit {
 		System.out.println("dev提交3");
 		System.out.println("master提交1");
 		System.out.println("master提交2");
-		System.out.println("github在线添加1");	
+		System.out.println("github在线添加1");
+		
+		System.out.println("dev远程提交");	
 	}
 }
