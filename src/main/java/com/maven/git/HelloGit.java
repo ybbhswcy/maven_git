@@ -8,5 +8,6 @@ public class HelloGit {
 		System.out.println("主线提交1");
 		System.out.println("dev提交1");
 		System.out.println("dev提交2");
+		System.out.println("dev提交3");
 	}
 }
