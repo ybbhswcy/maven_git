@@ -7,5 +7,7 @@ public class HelloGithub {
 		System.out.println("本地添加内容1");
 		System.out.println("本地添加内容HelloGit提交");
 		System.out.println("mavengit提交1");
+		
+		System.out.println("mavengit_master提交1");
 	}
 }
