@@ -9,5 +9,7 @@ public class HelloGithub {
 		System.out.println("mavengit提交1");
 		
 		System.out.println("mavengit_master提交1");
+		
+		System.out.println("mavengit_dev提交____");
 	}
 }
